@@ -1,0 +1,13 @@
+package com.laptrinhjavaweb.controller;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(urlPatterns = {"/admin-building"})
+public class BuildingController extends  HttpServlet{
+
+	private static final long serialVersionUID = 8964262518551795756L;
+
+	
+	
+}

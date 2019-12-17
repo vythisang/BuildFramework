@@ -1,0 +1,16 @@
+127.0.0.1 - - [18/Nov/2019:00:00:54 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:00:01:36 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=TANG_TRET&buildingTypes=NGUYEN_CAN HTTP/1.1" 200 1885
+127.0.0.1 - - [18/Nov/2019:12:53:02 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:12:54:22 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NGUYEN_CAN&costRentFrom=&costRentTo&areaRentFrom&areaRentTo HTTP/1.1" 200 1885
+127.0.0.1 - - [18/Nov/2019:13:01:34 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:02:24 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NGUYEN_CAN&costRentFrom=&costRentTo&areaRentFrom&areaRentTo HTTP/1.1" 500 1545
+127.0.0.1 - - [18/Nov/2019:13:05:40 +0700] "GET / HTTP/1.1" 302 -
+127.0.0.1 - - [18/Nov/2019:13:07:20 +0700] "GET / HTTP/1.1" 302 -
+127.0.0.1 - - [18/Nov/2019:13:08:45 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:08:50 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NGUYEN_CAN&costRentFrom=&costRentTo&areaRentFrom&areaRentTo HTTP/1.1" 500 1545
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:11:43 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NGUYEN_CAN&costRentFrom=&costRentTo&areaRentFrom&areaRentTo HTTP/1.1" 200 1411
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:12:46 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NOI_THAT&costRentFrom=&costRentTo&areaRentFrom&areaRentTo HTTP/1.1" 200 956
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:13:45 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NOI_THAT&costRentFrom=15&costRentTo=20&areaRentFrom=&areaRentTo= HTTP/1.1" 200 482
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:21:26 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NOI_THAT&costRentFrom=15&costRentTo=20&areaRentFrom=&areaRentTo= HTTP/1.1" 200 482
+127.0.0.1 - - [18/Nov/2019:13:21:56 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2019:13:23:06 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea&street=&ward=&buildingTypes=NOI_THAT&costRentFrom=15&costRentTo=20&areaRentFrom=&areaRentTo= HTTP/1.1" 200 479

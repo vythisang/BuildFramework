@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Danh sach toa nha</title>
+</head>
+<body>
+	<div class="container">
+		
+		<div class="main-content-inner">
+			<div class="breadcrumbs" id="breadcrumbs">
+				<script type="text/javascript">
+					try{
+						ace.settings.check('breadcrumbs' , 'fixed')
+					}.catche(e){}				
+				</script>
+				
+				<ul class = "breadcrumb">
+					<li>
+						<i class="ace-icon fa fa-home home-icon"></i>
+						<a href="#">Home</a>
+					</li>
+					<li class="active">Dashboard</li>
+				</ul>				
+			</div>
+			<div class="page-content">
+			
+			</div>
+		</div>
+	</div>
+</body>
+</html>

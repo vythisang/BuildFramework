@@ -1,0 +1,11 @@
+package com.laptrinhjavaweb.controller;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(urlPatterns = {"/admin-building"})
+public class BuildingController extends  HttpServlet{
+
+	
+	
+}

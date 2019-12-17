@@ -1,0 +1,11 @@
+1572572824762	Rename package 'controller'
+1572612483750	Rename package 'com.laptrinhjavaweb.view'
+1572612683170	Rename package 'com.laptrinhjavaweb.model'
+1572613028303	Rename package 'com.laptrinhjavaweb.business'
+1572614088017	Rename type 'BuildingModel'
+1572661533754	Rename resource 'create_table'
+1572707495173	Delete elements
+1572709632453	Rename type 'EntitryManager'
+1572712511583	Rename type 'BuildingRepository'
+1572712517616	Rename type 'UserRepository'
+1572713115203	Rename type 'EntityManagerImpl'

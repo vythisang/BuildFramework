@@ -1,0 +1,2 @@
+127.0.0.1 - - [23/Nov/2019:20:36:34 +0700] "GET / HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:20:36:45 +0700] "GET /api-building?page=1&limit=4&name=&district=&numberOfBasement=&buildingArea=&ward=&street=&buildingTypes=NOI_THAT HTTP/1.1" 200 1199
